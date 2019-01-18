@@ -1,3 +1,6 @@
 # hello-world
 Just the first repository
-new branch which will be added in the master
+
+Tony Ren is here ,just for the begin trip of the git and github
+
+and this is the finally version
